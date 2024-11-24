@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Vue**
 
-- 📫 How to reach me **bhushannayak09@gmail.com**
+- 📫 reach me at **bhushannayak09@gmail.com**
 
 - 📄 Know about my experiences [http://nmamit.in/placement/Student/assets/resumes/2023/4NM20IS025.pdf](http://nmamit.in/placement/Student/assets/resumes/2023/4NM20IS025.pdf)
 
